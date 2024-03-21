@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Monalisa Jena
+- 👀 I’m interested in Coding ;)
+- 🌱 I’m currently learning C, C++, Java, Frontend Development
+- 📫 How to reach me, well you can't XD
